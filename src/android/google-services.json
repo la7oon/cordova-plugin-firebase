@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "569573479371",
+    "firebase_url": "https://amooma-724dc.firebaseio.com",
+    "project_id": "amooma-724dc",
+    "storage_bucket": "amooma-724dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569573479371:android:d5577f2d7aa1bfb2",
+        "android_client_info": {
+          "package_name": "com.AMO.AMO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569573479371-b2j0ael2bknqs246rrgf0d9vlc1he8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-2LmRVOJ8h1X_elKfjP8MiHS9gzz1qE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
