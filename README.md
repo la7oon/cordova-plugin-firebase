@@ -110,7 +110,7 @@ and
 
 On Android Lollipop and above you can also set the accent color for the notification by adding a color setting.
 
-`<projectroot>/res/native/android/res/values/colors.xml`
+`<projectroot>/res/native/android/res/values/firebaseColors.xml`
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
